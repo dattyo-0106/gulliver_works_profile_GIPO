@@ -24,3 +24,7 @@ EXPOSE 3000
 WORKDIR ${APP_ROOT}
 
 CMD ["bundle", "exec", "puma", "-C", "config/puma.rb"]
+
+teset
+
+test
